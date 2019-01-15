@@ -1,2 +1,5 @@
 hello git:q
-edit test
+edit tes
+l
+t
+branch test
